@@ -1,2 +1,2 @@
 # js-demo
-This is demo for Javascript in Git &amp; Github.
+This is Demo for Javascript in Git &amp; Github.
